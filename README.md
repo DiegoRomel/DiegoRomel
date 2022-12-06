@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Diegoztoso
+- 👋 Hi, I’m @DiegoRomel
 - 👀 I’m interested in improve my skills with programming languages
 - 🌱 I’m currently learning C/C++, Python, HTML 
 - 💞️ I’m looking to collaborate with others devs and develop solutions for anything.
